@@ -7,3 +7,6 @@ Inventory plugin for Minecraft
 /inv remove add <player_name> <item> <amount>
 ```
 _version 1.18-1.18.1_
+
+### Create jar-file:
+Maven -> Lifececle -> package
