@@ -1,7 +1,7 @@
 # InvMGMT
 Inventory plugin for Minecraft
 
-```aidl
+```shell
 /ivn clear <player_name>
 /inv add <player_name> <item> <amount>
 /inv remove add <player_name> <item> <amount>
