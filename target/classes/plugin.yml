@@ -1,0 +1,12 @@
+name: InvMGMT
+api-version: 1.18
+version: 1.0
+author: EAS
+main: me.eas.invmgmt.Plugin
+description: Inventory management plugin for Minecraft
+
+commands:
+  inv:
+    aliases:
+      - i
+      - inventory
